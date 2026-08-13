@@ -4,6 +4,8 @@ A simple and efficient 3D project in **C++** using the **Win32 API** and **OpenG
 
 Built purely with native Windows APIs (WGL) without relying on third-party frameworks or libraries (such as GLUT, GLFW, or GLEW).
 
+![Cube3Dgl Preview](window.png)
+
 ---
 
 ## 🚀 Features
